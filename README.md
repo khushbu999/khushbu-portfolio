@@ -1,2 +1,3 @@
 # khushbu-portfolio
-For hosting my resume
+for hosting my portfolio
+
